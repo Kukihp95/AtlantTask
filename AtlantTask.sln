@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtlantTask", "AtlantTask.csproj", "{620D5082-F64E-4384-905C-21B4190BE409}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{620D5082-F64E-4384-905C-21B4190BE409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{620D5082-F64E-4384-905C-21B4190BE409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{620D5082-F64E-4384-905C-21B4190BE409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{620D5082-F64E-4384-905C-21B4190BE409}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {054C82CC-AAE1-420F-94B7-B9071C8D16CC}
+	EndGlobalSection
+EndGlobal
